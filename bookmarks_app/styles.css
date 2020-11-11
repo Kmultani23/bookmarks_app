@@ -1,0 +1,16 @@
+
+body{
+    color: green;
+    font-size: verdana;
+    padding: 1rem;
+}
+
+#user-form{
+    display: flex;
+    flex-direction: column;
+}
+
+#user-form > * {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
